@@ -2,7 +2,7 @@
 ## Odin Project for Foundations Course, HTML Foundations section
 
 ### Intro
-This project will detail my HTML skills as they currently exist including the following:
+This project will detail my HTML skills as they currently exist, including the following:
 
 #### Skills
  - basic Boilerplate setup
